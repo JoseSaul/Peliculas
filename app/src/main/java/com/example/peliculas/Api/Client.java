@@ -1,7 +1,6 @@
 package com.example.peliculas.Api;
 
 import com.example.peliculas.Model.MoviesResponse;
-
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

@@ -1,10 +1,8 @@
 package com.example.peliculas;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.widget.TextView;
-
 import com.example.peliculas.Api.Client;
 import com.example.peliculas.Model.Movie;
 
